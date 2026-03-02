@@ -15,7 +15,7 @@ export const Testimonials = () => {
       type: "Real Estate Investor"
     },
     {
-      text: "The communication was outstanding. I never had to guess where we were in the process. Highly recommend crystal to anyone looking for a stress-free mortgage.",
+      text: "The communication was outstanding. I never had to guess where we were in the process. Highly recommend Crystal to anyone looking for a stress-free mortgage.",
       author: "Amanda L.",
       type: "Refinance Client"
     }
