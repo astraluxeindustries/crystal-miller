@@ -11,27 +11,27 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Crystal Miller" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Crystal Miller
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                With over 15 years of experience in the mortgage industry, I have dedicated my career to helping families achieve the dream of homeownership. My approach is simple: listen first, advise second.
+                Based in Northern California, Crystal brings more than 20 years of experience in residential lending and a reputation for navigating the loans others often overlook. She specializes in complex financing scenarios and is known for her persistence, clear communication, and steady guidance from application to closing.
               </p>
               <p>
-                I understand that a mortgage is not just a loan; it's likely the largest financial commitment you will make. That's why I take the time to explain every detail, ensuring you feel confident and empowered throughout the process.
+                Crystal works across a wide range of loan products, including Conventional, FHA, USDA, HELOC, and reverse mortgage solutions. With additional training in specialized lending products and a background in real estate, she offers clients both technical expertise and practical insight. Her approach is straightforward: find solutions, communicate clearly, and stay committed until the loan is complete.
               </p>
               <p>
-                Whether you are buying your first home, investing in real estate, or refinancing, I am committed to finding the best loan solution for your unique situation.
+                Deeply rooted in her community, Crystal serves as a school board trustee, president of the Divide Recreation Association, an FFA advisory committee member, and a high school varsity softball coach. She and her husband are also active volunteers at local Rotary events.
               </p>
               <p>
-                When I'm not closing loans, you can find me hiking the trails of the Pacific Northwest or volunteering at the local food bank.
+                Outside of work, Crystal enjoys life on her family’s 25-acre property surrounded by horses, cows, goats, chickens, ducks, and her three children. Whether you're facing a challenging loan structure or simply want a lender who answers the phone and follows through, Crystal is ready to help.
               </p>
             </div>
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-2 gap-4">
